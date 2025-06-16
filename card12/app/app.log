@@ -1,0 +1,9 @@
+2025-06-15 19:59:23,758 - root - INFO - Starting Flask application...
+2025-06-15 19:59:23,759 - root - INFO - WAHA API URL: http://localhost:3000/api
+2025-06-15 19:59:23,840 - werkzeug - WARNING -  * Debugger is active!
+2025-06-15 19:59:23,855 - werkzeug - INFO -  * Debugger PIN: 445-235-969
+2025-06-15 19:59:39,521 - werkzeug - INFO -  * Detected change in 'C:\\card12\\app\\langflow_handler.py', reloading
+2025-06-15 19:59:40,766 - root - INFO - Starting Flask application...
+2025-06-15 19:59:40,767 - root - INFO - WAHA API URL: http://localhost:3000/api
+2025-06-15 19:59:40,807 - werkzeug - WARNING -  * Debugger is active!
+2025-06-15 19:59:40,813 - werkzeug - INFO -  * Debugger PIN: 445-235-969
